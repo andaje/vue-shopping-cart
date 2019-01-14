@@ -1,0 +1,38 @@
+[
+  {
+    "id":"1",
+    "title": "product 1",
+    "image": "http://lorempixel.com/640/480/people",
+    "price": "128.20"
+  },
+  {
+    "id":"2",
+    "title": "product 2",
+    "image": "http://lorempixel.com/640/480/nature",
+    "price": "128.00"
+  },
+  {
+    "id":"3",
+    "title": "product 3",
+    "image": "http://lorempixel.com/640/480/food",
+    "price": "128.00"
+  },
+  {
+    "id":"4",
+    "title": "product 4",
+    "image": "http://lorempixel.com/640/480/transport",
+    "price": "128.00"
+  },
+  {
+    "id":"5",
+    "title": "product 5",
+    "image": "http://lorempixel.com/640/480/technics",
+    "price": "128.00"
+  },
+  {
+    "id":"6",
+    "title": "product 6",
+    "image": "http://lorempixel.com/640/480/sport",
+    "price": "128.00"
+  }
+]
